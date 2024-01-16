@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section_one_header {
+    background-image: url(./images/11.jpg);
+    height: 1000px;
+}
+
+.section_one_h1_social_network_img {
+    display: flex;
+    margin-left: 320px;
+    margin-right: 320px;
+}
+
+.img_youtube_logo {
+    margin-left: 1221px;
+}
